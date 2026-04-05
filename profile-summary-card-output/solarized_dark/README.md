@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/kuntalojha/Peofile-Summary-Card/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)
-```
-
-    
